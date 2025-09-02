@@ -1,11 +1,9 @@
 # <img src="https://www.pyopensci.org/images/logo.png" width=100 />  SciPy 2025 workshop: Create a Python Package
 
-This workshop is developed for the [pyOpenSci in-person packaging workshop at the 
-SciPy meeting in Tacoma, Washington 2025](https://cfp.scipy.org/scipy2025/talk/Z3VBWR/).
+This repository supports pyOpenSci workshops focused on Python packaging.
 
 ## Getting started
-Before the workshop, be sure that you read our setup instructions on our [events 
-page here](https://www.pyopensci.org/events/pyopensci-scipy25-create-python-package-workshop.html). 
+Before the workshop, be sure that you read the setup instructions that you recieved in an email. 
 
 You will need a GitHub and a testPyPI account to follow along. 
 
