@@ -1,4 +1,4 @@
-# <img src="https://www.pyopensci.org/images/logo.png" width=100 />  SciPy 2025 workshop: Create a Python Package
+# <img src="https://www.pyopensci.org/images/logo.png" width=100 />  pyOpenSci: Create a Python Package Workshop Repository
 
 This repository supports pyOpenSci workshops focused on Python packaging.
 
